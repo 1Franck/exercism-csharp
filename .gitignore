@@ -1,0 +1,50 @@
+# ignore OS generated files
+ehthumbs.db
+Thumbs.db
+
+# ignore Editor files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.editorconfig
+*.csproj
+Folder.DotSettings.user
+
+# ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# ignore app environment files
+.prod
+.staging
+.testing
+.dev
+
+# ignore files
+
+# Folders to ignore
+/node_modules
+/_test
+/_temp
+/_backup
+/vendor
+/.idea
+/**/.vs
+/**/.idea
+/**/.exercism
+/**/obj
+/**/bin
